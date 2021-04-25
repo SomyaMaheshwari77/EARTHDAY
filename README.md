@@ -1,5 +1,4 @@
 # EARTHDAY
-# SAVE_EARTH
 <html>
 <head>
 </head>
